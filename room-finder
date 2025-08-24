@@ -1,0 +1,3 @@
+git init
+git branch -M main
+git remote add origin https://github.com/mattiamantovani02/room-finder.git
